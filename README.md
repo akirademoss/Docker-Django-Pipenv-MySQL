@@ -6,9 +6,21 @@ Docker + Pipenv + Django Rest Framework + MySQL AWESOME TUTORIAL: https://medium
 https://www.techiediaries.com/pipenv-tutorial/
 pipenv install getenv
 
-**Docker Commands: coming soon**
+**More Docker Commands: coming soon**
 
 
+### Enter into Docker-Django-Pipenv-MySQL directory
+```
+cd Docker-Django-Pipenv-MySQL
+```
+
+### Run Docker commands
+```
+docker-compose build
+```
+```
+docker-compose up -d
+```
 
 ### Setting up pipenv:
 **Install pipenv:**
