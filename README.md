@@ -69,7 +69,7 @@ service mysql status
 
 ### Setup a user:
 ```
- ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'akirademoss’';
+ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'mypasswordissecret’';
 mysql -u root -p
 ```
 
